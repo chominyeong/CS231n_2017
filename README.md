@@ -1,5 +1,7 @@
 # CS231n_2017
 
+http://cs231n.stanford.edu/schedule.html
+
 매주 목
 |Date|Lecture|title|reviewed|
 |:---:|:---:|:---:|:---:|
