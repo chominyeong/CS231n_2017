@@ -1,6 +1,6 @@
 # CS231n_2017
 
-매주 월, 목
+매주 목
 |Date|Lecture|title|reviewed|
 |:---:|:---:|:---:|:---:|
 |24.01.22|Lecture 1 | [Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1)||
