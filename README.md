@@ -1,8 +1,8 @@
 # CS231n_2017
 
-http://cs231n.stanford.edu/schedule.html
+- schedule : http://cs231n.stanford.edu/schedule.html
+- 매주 목요일 자정까지 리뷰해서 노션에 게시(따로 깃허브 추가 작성)
 
-매주 목
 |Date|Lecture|title|reviewed|
 |:---:|:---:|:---:|:---:|
 |24.01.25|Lecture 1 | [Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1)||
