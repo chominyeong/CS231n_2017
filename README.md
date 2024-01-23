@@ -3,7 +3,7 @@
 - schedule : http://cs231n.stanford.edu/schedule.html
 - 매주 목요일 자정까지 리뷰해서 노션에 게시
 
-|Date|Lecture|title|reviewed|
+|Date|Lecture|title|click icon!|
 |:---:|:---:|:---:|:---:|
 |24.01.25|Lecture 1 | [Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1)| [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://loving-carp-ab8.notion.site/Lecture-1-0ef69bb88044411a8194e41baeddba93) |
 |24.02.01|Lecture 2 | [Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=2)||
