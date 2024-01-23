@@ -1,7 +1,7 @@
 # CS231n_2017
 
 - schedule : http://cs231n.stanford.edu/schedule.html
-- 매주 목요일 자정까지 리뷰해서 노션에 게시(따로 깃허브 추가 작성)
+- 매주 목요일 자정까지 리뷰해서 노션에 게시
 
 |Date|Lecture|title|reviewed|
 |:---:|:---:|:---:|:---:|
