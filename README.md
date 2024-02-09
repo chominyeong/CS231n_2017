@@ -7,7 +7,7 @@
 |:---:|:---:|:---:|:---:|
 |24.01.25|Lecture 1 | [Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1)| [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://loving-carp-ab8.notion.site/Lecture-1-0ef69bb88044411a8194e41baeddba93) |
 |24.02.01|Lecture 2 | [Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=2)|[<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://loving-carp-ab8.notion.site/Lecture-2-231a022d6bf442da9fb21289d6acee74)|
-|24.02.08|Lecture 3 | [Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=3)||
+|24.02.08|Lecture 3 | [Loss Functions and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=3)|[<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://loving-carp-ab8.notion.site/Lecture-3-b5c1aa5025fe497ba14f8779599fb863)|
 |24.02.15|Lecture 4 | [Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=4)||
 |24.02.22|Lecture 5 | [Convolutional Neural Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=5)||
 |24.02.29|Lecture 6 | [Training Neural Networks I](https://www.youtube.com/watch?v=wEoyxE0GP2M&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=6)||
