@@ -2,6 +2,14 @@
 
 - schedule : http://cs231n.stanford.edu/schedule.html
 - 매주 목요일 자정까지 리뷰해서 노션에 게시
+<br>
+
+### 📍 참고 자료
+- [강의 번역 사이트](https://github.com/visionNoob/CS231N_17_KOR_SUB)
+- [자료 번역 사이트](https://aikorea.org/cs231n/)
+- [한글 ppt 사이트](https://softwareeng.tistory.com/entry/%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-cs231n%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%98%EB%A9%B0)
+<br>
+<br>
 
 |Date|Lecture|title|click icon!|
 |:---:|:---:|:---:|:---:|
